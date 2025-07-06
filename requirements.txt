@@ -1,0 +1,9 @@
+### `requirements.txt`
+tensorflow>=2.8
+pretty_midi
+numpy
+scipy
+pandas
+mido
+pytz 
+python-dateutil

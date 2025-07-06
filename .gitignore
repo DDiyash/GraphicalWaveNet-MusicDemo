@@ -1,0 +1,12 @@
+# Ignore virtual environment
+nusic_env/
+
+# Ignore model weights
+gwnet_model.weights.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Logs or temp files
+*.log
