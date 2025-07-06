@@ -1,5 +1,7 @@
 # Graphical WaveNet MIDI Generator
 
+Generated output in wav format: https://drive.google.com/file/d/1rj5gjuL5xtGuuaOa1pwcAGeP_3Xj6Xuw/view?usp=sharing
+
 This project uses a Graphical WaveNet model implemented in TensorFlow to generate classical music from MIDI files. It includes preprocessing (MIDI → Tensors), training, and autoregressive generation with MIDI output and MATLAB audio visualization.
 
 Why I Didn't Use MATLAB for Model Development
